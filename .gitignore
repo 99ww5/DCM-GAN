@@ -1,0 +1,35 @@
+# datasets
+/datasets/
+*.pth
+*.pt
+*.pkl
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# logs and checkpoints
+logs/
+checkpoints/
+ckpt/
+runs/
+wandb/
+outputs/
+results/
+
+# system/editor
+.DS_Store
+.vscode/
+.idea/
