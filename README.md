@@ -19,11 +19,6 @@
 + torch==2.5.1
 + torchvision==0.20.1
 + torchaudio==2.5.1
-+ tqdm
-+ matplotlib
-+ opencv-python
-+ h5py
-+ requests
 + setuptools==68.2.2
 
 ## Installation
@@ -157,6 +152,6 @@ If you find this useful, please cite our work as follows:
 
 We thank the following repos for providing helpful components in our work:
 
-- [DFZSL](https://github.com/ylong4/DFZSL)
 - [TF-VAEGAN](https://github.com/akshitac8/tfvaegan)
+- [DFZSL](https://github.com/ylong4/DFZSL)
 - [CLIP](https://github.com/openai/CLIP)
